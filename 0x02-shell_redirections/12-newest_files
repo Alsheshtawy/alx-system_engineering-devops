@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -time | head -n 10
